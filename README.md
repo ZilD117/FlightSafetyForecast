@@ -23,4 +23,5 @@ Warning: installing cfgrib & eccodes requires Conda environment.
 # Flight Path APIs:   
 >https://openflights.org/data.php  
 >https://openskynetwork.github.io/opensky-api/  
->https://flightplandatabase.com/dev/api#endpoint-fetch-plan  
+>https://flightplandatabase.com/dev/api#endpoint-fetch-plan    
+>https://github.com/JeanExtreme002/FlightRadarAPI/tree/main    
