@@ -18,4 +18,9 @@ Packages:
 # Package Installation tutorial:  
 Warning: installing cfgrib & eccodes requires Conda environment.  
 > conda install -c https://conda.anaconda.org/conda-forge eccodes  
-> conda install -c https://conda.anaconda.org/conda-forge cfgrib  
+> conda install -c https://conda.anaconda.org/conda-forge cfgrib
+
+# Flight Path APIs:   
+>https://openflights.org/data.php  
+>https://openskynetwork.github.io/opensky-api/  
+>https://flightplandatabase.com/dev/api#endpoint-fetch-plan  
