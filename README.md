@@ -13,9 +13,9 @@ Packages:
 > matplotlib  
 > pandas  
 > numpy  
-> requests
-> polyline
-> asyncio
+> requests  
+> polyline  
+> asyncio  
 > flightplandb  
 
 # Package Installation tutorial:  
