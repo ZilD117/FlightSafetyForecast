@@ -13,7 +13,10 @@ Packages:
 > matplotlib  
 > pandas  
 > numpy  
-> requests  
+> requests
+> polyline
+> asyncio
+> flightplandb  
 
 # Package Installation tutorial:  
 Warning: installing cfgrib & eccodes requires Conda environment.  
